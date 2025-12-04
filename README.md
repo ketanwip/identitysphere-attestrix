@@ -18,6 +18,12 @@
 
 ---
 
+## About IdentiSphere
+
+IdentiSphere is a comprehensive access management platform that provides identity and access management (IAM) capabilities including user provisioning, access requests, approvals, multi-factor authentication, and integration with external systems.
+
+---
+
 ## Access Management & Governance
 
 Comprehensive access control, provisioning, and governance features to ensure the right people have the right access at the right time.
@@ -460,21 +466,10 @@ Pre-built and customizable compliance reports for access reviews, user certifica
 
 **Key Benefits:**
 - Access review reports
-- User certification reports
 - Custom report builder
 - Scheduled report delivery
 - Export capabilities
 
-### Access Certification
-
-Automated access certification campaigns where managers review and certify user access on a regular basis.
-
-**Key Benefits:**
-- Automated certification campaigns
-- Manager-based reviews
-- Bulk certification
-- Certification history
-- Reminder notifications
 
 ### Risk Analytics
 
@@ -595,7 +590,7 @@ Multi-layered security with MFA, SSO, risk analytics, and comprehensive audit lo
 Automate provisioning workflows, reduce manual IT tasks, and enable self-service access management.
 
 ### 📋 Compliance
-Meet regulatory requirements with comprehensive audit trails, access certifications, and compliance reporting.
+Meet regulatory requirements with comprehensive audit trails, and compliance reporting.
 
 ### 🤖 Intelligence
 AI-powered recommendations and analytics help make informed decisions about access management.
@@ -603,13 +598,6 @@ AI-powered recommendations and analytics help make informed decisions about acce
 ### 🔧 Flexibility
 Vendor-agnostic architecture supports any integration, SIEM provider, or AI model you choose.
 
----
-
-## About IdentiSphere
-
-IdentiSphere is a comprehensive access management platform that provides identity and access management (IAM) capabilities including user provisioning, access requests, approvals, multi-factor authentication, and integration with external systems.
-
-**Version:** 2.0  
 ---
 
 ## Technical Architecture
