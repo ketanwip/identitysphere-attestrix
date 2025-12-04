@@ -612,6 +612,24 @@ IdentiSphere is a comprehensive access management platform that provides identit
 **Version:** 2.0  
 ---
 
+## Technical Architecture
+
+IdentiSphere is built on a modern, scalable, and secure technology stack designed for enterprise-grade access management.
+
+**Frontend:** React-based Single Page Application (SPA) with TypeScript, offering a responsive, intuitive user interface with dark/light mode support and real-time updates.
+
+**Backend:** Node.js/Express.js RESTful API architecture with comprehensive middleware for authentication, authorization, and request validation, ensuring high performance and reliability.
+
+**Database:** PostgreSQL for robust, relational data storage with optimized queries, indexing strategies, and support for JSONB data types for flexible schema extensions.
+
+**Security:** Enterprise-grade security with role-based access control (RBAC), multi-factor authentication, encrypted credential storage, secure session management, and comprehensive input validation.
+
+**Integration:** Vendor-agnostic architecture supporting REST APIs, SAML SSO, SIEM providers, and AI services with flexible connector framework and retry mechanisms.
+
+**Deployment:** Container-ready architecture supporting cloud and on-premise deployments with horizontal scaling capabilities and high availability configurations.
+
+---
+
 *For detailed implementation guides, please refer to the Administrator Guide and Developer Guide.*
 
 
